@@ -18,7 +18,7 @@ Building AI-powered systems using Machine Learning, Linux, Embedded Systems, and
 ![](https://streak-stats.demolab.com/?user=SrivatsalyaBhavaraju&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SrivatsalyaBhavaraju&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### 📖 Words I Live By
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
